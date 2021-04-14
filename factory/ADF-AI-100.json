@@ -1,0 +1,9 @@
+{
+	"name": "ADF-AI-100",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89256300-6869-49c7-a7f5-62ef617d9ee8",
+		"tenantId": "0d04795b-2508-427d-9a19-c5b5c18b7fea"
+	}
+}
